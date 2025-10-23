@@ -21,7 +21,6 @@ The initial pilot project is based on the **village chronicle of Wolkramshausen*
 digitalious-loki/
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── data/
 ├── chronic-kit/
 ├── interface/
