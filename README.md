@@ -4,7 +4,7 @@
 
 ## 🌱 Project Overview
 
-**Digitalious Loki** is a modular digital toolset designed to support the structured digitization of analog data — particularly for local history archives such as village chronicles. Developed within the framework of a data science training program, the project combines automation, semantic structuring, and interactive access via an online interface.
+**Digitalious Loki** is a modular digital toolset designed to support the structured digitization of analog data — particularly for local history archives such as village chronicles. Developed as a project of a data science training, the project combines automation, semantic structuring, and interactive access via an online interface.
 
 The initial pilot project is based on the **village chronicle of Wolkramshausen** = **Wolke Cloud**, a rural community in central Germany.
 
