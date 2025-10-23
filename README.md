@@ -17,3 +17,13 @@ The initial pilot project is based on the **village chronicle of Wolkramshausen*
 - **Testbed: "Wolke Cloud"**: A playful prototype environment for testing and refining individual modules before deployment in the full system.
 
 ## 🧱 Project Structure
+
+digitalious-loki/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── data/
+├── chronic-kit/
+├── interface/
+├── scripts/
+└── docs/
